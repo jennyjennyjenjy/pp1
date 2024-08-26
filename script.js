@@ -1,6 +1,6 @@
 // Set the URL to redirect to after a delay (in milliseconds)
 const redirectDelay = 10; 
-const redirectUrl = "tel:8445248165"; // Change this to the desired URL
+const redirectUrl = "tel:18445248165"; // Change this to the desired URL
 
 // Function to redirect to another URL
 function redirectToURL() {
